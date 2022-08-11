@@ -1,0 +1,6 @@
+var randomWords = ["Взрыв", "Пещера", "Принцесса", "Карандаш"]; 
+var randomIndex = Math.floor(Math.random() * 4); 
+print(randomWords[randomIndex]);
+
+
+
